@@ -165,3 +165,5 @@ change them all at once by changing the variable's value, nice
 1. Using live server and Chrome's console, you can see what's going on with your JavaScript which is super helpful. Need to remember to always console log and check!
 
 2. I've been working on [a design for my application website](https://codepen.io/lopezelpesado/pen/MWJqGPe) and a [css image filter](https://codepen.io/lopezelpesado/pen/xxgQoMN) on CodePen and I'm really happy with the results so I'm gunna move it over to GitHub.
+
+3. I've moved everything over!
